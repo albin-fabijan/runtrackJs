@@ -1,0 +1,16 @@
+/* style.css */
+
+#gameboard {
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
+
+.tile {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background-size: cover;
+    cursor: pointer;
+}
